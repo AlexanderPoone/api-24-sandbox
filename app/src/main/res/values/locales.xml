@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="en_GB_local">English (United Kingdom)</string>
+    <string name="en_US_local">English (United States)</string>
+    <string name="ca_local">Català</string>
+    <string name="de_DE_local">Deutsch (Deutschland)</string>
+    <string name="el_local">Ελληνικά</string>
+    <string name="es_AR_local">Español (Río de la Plata)</string>
+    <string name="es_ES_local">Español (España)</string>
+    <string name="es_MX_local">Español (Centroamérica, Caribe)</string>
+    <string name="es_PE_local">Español (Andes)</string>
+    <string name="eo_local">Esperanto</string>
+    <string name="fr_FR_local">Français (France)</string>
+    <!--<string name="hax_local">31337 h4x0r</string>-->
+    <string name="it_local">Italiano</string>
+    <string name="ja_local">日本語</string>
+    <string name="ja_furigana_local">日本語（振り仮名）</string>
+    <string name="mi_local">Māori</string>
+    <string name="ru_local">Русский</string>
+    <string name="sco_local">Scots</string>
+    <string name="ua_local">Українська</string>
+    <string name="zh_HK_local">正體中文（香港）</string>
+    <string name="zh_TW_local">正體中文（臺灣）</string>
+</resources>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Project Platypus II</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuració</string>
+    <string name="welcome">Benvinguts, els paios!</string>
+    <string name="start">Inicio</string>
+    <string name="copyleftMessage">%1$s %2$s\n(Ↄ) Copyleft，Alexis Pounne et al.，2015–2017。</string>
+    <string name="noConnection">本程式需要互聯網連線，請檢查您的網絡設定。</string>
+    <string name="mongodb">正連接伺服器，請稍候。</string>
+    <string name="noConnectionLeft">Wi-Fi設定</string>
+    <string name="noConnectionRight">Reintentar</string>
+
+    <string name="login">Inici de sessió</string>
+    <string name="register">Crea un compte</string>
+    <string name="registerFirstName">Nom</string>
+    <string name="registerLastName">Cognom(s)</string>
+    <string name="registerHideName">不公開姓名</string>
+    <string name="registerNameOrder">全名顯示方式</string>
+    <string name="registerUsername">Usuari</string>
+    <string name="registerPassword">Contrasenya</string>
+    <string name="registerPasswordStrength">密碼強度：</string>
+    <string name="registerPasswordWeak">低</string>
+    <string name="registerPasswordMedium">中</string>
+    <string name="registerPasswordStrong">高</string>
+    <string name="registerConfirmPassword">Confirmeu la contrasenya</string>
+    <string name="registerEmail">Adreça electrònica</string>
+    <string name="registerLanguages">熟練的語言（可選多項）</string>
+    <string name="registerDesktopLaptopOS">桌上／手提電腦作業系統</string>
+    <string name="registerDesktopLaptopOSWin10">暈到死 10</string>
+    <string name="registerDesktopLaptopOSMacOS">生果佬雨褸</string>
+    <string name="registerDesktopLaptopOSDebian">Debian</string>
+    <string name="registerDesktopLaptopOSUbuntu">Ubuntu</string>
+    <string name="registerDesktopLaptopOSFedora">Fedora</string>
+    <string name="registerMobileOS">手機作業系統</string>
+    <string name="registerMobileOSLollipop">Android 波板糖</string>
+    <string name="registerMobileOSMarshmallow">Android 棉花糖</string>
+    <string name="registerMobileOSNougat">Android 鳥結糖</string>
+
+    <string name="settingsInterface">介面設定</string>
+    <string name="settingsTheme">佈景主題</string>
+    <string name="settingsBackgroundSolidColor">淨色</string>
+    <string name="settingsBackgroundPattern">背景圖樣</string>
+    <string name="settingsBackgroundPatternPolkaDots">圓點</string>
+    <string name="settingsBackgroundPatternKoru">Koru</string>
+    <string name="settingsBackgroundPatternPaisley">佩斯利渦紋</string>
+    <string name="settingsBackgroundDefaultClairDeLune">預設集：月光</string>
+    <string name="settingsBackgroundColour">背景顏色</string>
+    <string name="settingsTextColour">文字顏色</string>
+    <string name="settingsFontFamily">字體</string>
+    <string name="settingsFontCanterell">Canterell</string>
+    <string name="settingsFontCarterOne">Carter One</string>
+    <string name="settingsFontLaBelleAurore">La Belle Aurore</string>
+    <string name="settingsFontSpecialElite">Special Elite</string>
+    <string name="settingsFontVT323">VT323</string>
+    <string name="settingsResetSettings">Restablir la configuració</string>
+    <string name="pangram">Jove xef, porti whisky amb quinze glaçons d\'hidrogen, coi!</string>
+    <string name="lorem">Una dona amb els cabells glaçats irromp al refugi, a punt de desmaiar-se. El guarda corre a ajudar-la. Se l\'emporta a una cambra, li treu la roba amb delicadesa, com si fos un cirurgià, i comença a aplicar-li cures. Mentre intenta reanimar-la, se n\'enamora, abans i tot de saber que és la Irena Besikova, una llegenda entre els escaladors professionals.
+\n\nAl vertigen és la història d\'un gran amor, d\'un triangle inusual i d\'una escaladora enigmàtica i solitària. La decisió de la Irena quedar-se als Tammarians a fer de guia provocarà una allau rere l\'altra. Les passions que l\'envolten duran els protagonistes al caire de la follia. El vertigen de l\'atracció amorosa rivalitzarà amb l\'alpinisme. La natura salvatge amb la civilització urbana. ¿Arriscaran el benestar familiar i professional per una bogeria? Les vocacions són incompatibles. I més quan són idealistes i extremes. Malgrat els obstacles, l\'escalada de les seves conquestes avençarà però complicant-se tram a tram.
+\n\nEscrita amb una prosa intensa i elegant, Al vertigen és una novel.la romàntica, paisatgística i d\'aventures. L\'obra planteja dos debats importants: el de la passió i el del feminisme. També és un homenatge a l\'alta muntanya on els personatges, atrets per impulsos irrefrenables, es barregen amb alpinistes reals. Al vertigen és una muntanya literària imponent i corprenedora que ens atreu, sense fatic i sense adonar-nos, fins al seu cim.
+\n\nPer a un lector normal serà una novel.la d\'amor, la història d\'una passió destructora. Els bons lectors s\'adonaran en la part final de la dimensió metaliterària del llibre i de la importància de les paraules i de la imaginació. I hauran de decidir què ha estat real i què no. Al vertigen és el vertigen de la muntanya, de la passió amorosa, literària, de qualsevol droga que estimem i ens fa obsessivament seus. Per a un escalador només importen els cims. Per a un enamorat, el seu amor. Per a un artista, el seu art.</string>
+    <!--Just for fun-->
+
+    <!--/Just for fun-->
+    <!--Testing-->
+    <string name="defaultUser">陳大文</string>
+    <!--/Testing-->
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="clairDeLune">
+        <item>#291624</item>
+        <item>#342A36</item>
+        <item>#737462</item>
+        <item>#CFD18E</item>
+        <item>#EAF7B5</item>
+    </array>
+    <array name="tricolore">
+        <item>@color/Liberty</item>
+        <item>@color/Equality</item>
+        <item>@color/Fraternity</item>
+    </array>
+    <array name="webColors">
+        <item>@color/White</item>
+        <item>@color/Silver</item>
+        <item>@color/Gray</item>
+        <item>@color/Black</item>
+        <item>@color/Red</item>
+        <item>@color/Maroon</item>
+        <item>@color/Yellow</item>
+        <item>@color/Olive</item>
+        <item>@color/Lime</item>
+        <item>@color/Green</item>
+        <item>@color/Cyan</item>
+        <item>@color/Teal</item>
+        <item>@color/Blue</item>
+        <item>@color/Navy</item>
+        <item>@color/Magenta</item>
+        <item>@color/Purple</item>
+    </array>
+</resources>
